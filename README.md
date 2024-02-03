@@ -43,4 +43,4 @@ It aids farmers in making informed decisions about agricultural strategy. Here, 
 
 ### Exploration:
 
-- Explore the `main.ipynb` notebook for a detailed overview of the project's development and results.
+- Explore the `main.py` notebook for a detailed overview of the project's development and results.
